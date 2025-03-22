@@ -1,7 +1,7 @@
 # **Uber Data Engineering Project**
 
 ## **Overview**
-This project implements a real-time data engineering pipeline for analyzing Uber trip data. It utilizes **Mage AI**, **Google BigQuery**, and **Python** to extract, transform, and load (ETL) trip records for further analysis.
+The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## **Project Architecture**
 The pipeline follows these steps:
